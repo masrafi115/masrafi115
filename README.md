@@ -5,15 +5,6 @@
 <!--<img src="https://komarev.com/ghpvc/?username=masrafi115&label=Views&color=a4c639&style=plastic" alt="masrafi115" />-->
 
 
-- 🔭 I’m currently working on Fiverr and Upwork.
-- 🌱 I’m currently learning Dart.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Flutter.
-- 💬 Ask me about Android Application Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdur-rahman-rafi-5b5a48236/) - [Twitter](https://twitter.com/Abdurrahmanraf6)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love exploring new technologies and try new things. 
-
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
